@@ -1,5 +1,5 @@
 {
-  "name": "realtime-chat-app",
+  "name": "chatroomapps",
   "version": "1.0.0",
   "description": "Realtime Chat app",
   "main": "server.js",
