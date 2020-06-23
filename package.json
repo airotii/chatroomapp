@@ -4,7 +4,8 @@
   "description": "Realtime Chat app",
   "main": "server.js",
   "scripts": {
-    "start": "server.js"
+    "start": "server",
+    "dev": "run server"
   },
   "author": "",
   "license": "ISC",
