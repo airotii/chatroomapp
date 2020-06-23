@@ -2,7 +2,7 @@ const path = require('path');
 const http = require('http');
 const express = require('express');
 const socketio = require('socket.io');
-const formatMessage = require('messages.js');
+// const formatMessage = require('messages.js');
 const {
     userJoin,
     getCurrentUser,
