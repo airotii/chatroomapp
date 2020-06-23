@@ -4,7 +4,7 @@
   "description": "Realtime Chat app",
   "main": "server.js",
   "scripts": {
-    "start": "server",
+    "start": "node server",
     "dev": "run server"
   },
   "author": "",
